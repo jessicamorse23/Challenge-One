@@ -26,8 +26,8 @@ header h1 .seo {
 }
 
 /* 
-remove lines 30-34 due to conflict with lines 11-15
-.header  {
+remove lines 30-34 due to conflict with lines 11-15 */
+/* .header  {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -92,7 +92,7 @@ p {
     background-color: #2589bd;
     color: #ffffff;
 }
-/* combine all previous classes to create one .benefit1 class with the same properties. Lines 100 - 108 commented out of code. */
+/* combine all previous classes to create one .benefit1 class with the same properties. Lines 101 - 109 commented out of code. */
 .benefit1 {
     margin-bottom: 32px;
     color: #ffffff;
@@ -108,7 +108,7 @@ p {
     color: #ffffff;
 } */
 
-/* all h3 combined with .benefit1 as well. Lines 116-124 commented out of code. */
+/* all h3 combined with .benefit1 as well. Lines 117-125 commented out of code. */
 .benefit1 h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -124,7 +124,7 @@ p {
     text-align: center;
 } */
 
-/* All images combined to .benefit1 img - lines 133-143 commented out of code. */
+/* All images combined to .benefit1 img - lines 134-144 commented out of code. */
 .benefit1 img {
     display: block;
     margin: 10px auto;
@@ -143,7 +143,7 @@ p {
     max-width: 150px;
 } */
 
-/* created a single .main__section class. Lines 155-171 commented out of code with new class. */
+/* created a single .main__section class. Lines 156-172 commented out of code. */
 .main__section {
     margin-bottom: 20px;
     padding: 50px;
@@ -184,7 +184,7 @@ p {
     max-height: 200px;
 } */
 
-/* Created .main__section h2. Lines 192-200 commented out with new class. */
+/* Created .main__section h2. Lines 193-201 commented out. */
 .main__section h2 {
     margin-bottom: 20px;
     font-size: 36px;
